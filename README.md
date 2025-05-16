@@ -1,7 +1,3 @@
-Here's a clean and ready-to-use **README section** for setting up a passwordless SSH connection to a Google Cloud VM using a custom SSH key with no passphrase:
-
----
-
 ## 🔐 Passwordless SSH Access to GCP VM
 
 This guide explains how to create and use an SSH key **without a passphrase** for seamless access to your Google Cloud VM via `gcloud compute ssh`.
@@ -83,5 +79,3 @@ ssh my-gcp-vm
 ```
 
 ---
-
-Let me know if you want this in `.md` format or added to a GitHub repo structure!
